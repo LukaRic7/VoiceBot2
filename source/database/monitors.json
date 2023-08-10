@@ -1,0 +1,17 @@
+{
+	"1073670864832299128": {
+		"channel_listeners": {
+			"1136276233756360796": {
+				"desired_members": 5
+			},
+			"1136681634624700478": {
+				"desired_members": 5
+			},
+			"1136681651922018345": {
+				"desired_members": 5
+			}
+		},
+		"confirmation_channel": "1136681759761768519",
+		"temp_channels_category": "1136011756129505410"
+	}
+}
